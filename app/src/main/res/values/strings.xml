@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">QuranApp</string>
+    <string name="mufti_taqi_usmani">Mufti Taqi Usmani</string>
+    <string name="dr_mohsin_khan">Dr Mohsin Khan</string>
+    <string name="english_translation">English Translation</string>
+    <string name="mehmood_ul_hassan">Mehmood ul Hassan</string>
+    <string name="fatah_muhammad_jalandhri">Fatah Muhammad Jalandhri</string>
+    <string name="urdu_translation">Urdu Translation</string>
+    <string name="by_parah">By Parah</string>
+    <string name="by_surah">By Surah</string>
+    <string name="view_by">View by</string>
+    <string name="home">Home</string>
+    <string name="show_all_surah">Show All Surah</string>
+    <string name="parahButton">Show All Parah</string>
+    <string name="surah_no">Surah No :</string>
+    <string name="surah_name_urdu">Surah name Urdu</string>
+    <string name="surah_name_english">Surah Name English</string>
+    <string name="textview">TextView</string>
+    <string name="nazool">Nazool :</string>
+    <string name="madni">Madni</string>
+    <string name="_01">01</string>
+    <string name="urdu_intro">urdu intro</string>
+</resources>

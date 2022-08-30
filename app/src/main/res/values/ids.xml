@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="nav_home" type="id" />
+    <item name="nav_surah" type="id" />
+    <item name="nav_parah" type="id" />
+    <item name="nav_fmj" type="id" />
+    <item name="nav_mh" type="id" />
+    <item name="nav_dmk" type="id" />
+    <item name="nav_mtu" type="id" />
+</resources>

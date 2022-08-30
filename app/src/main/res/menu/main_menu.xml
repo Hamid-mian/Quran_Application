@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@id/nav_home"
+            android:title="@string/home"/>
+    </group>
+
+    <item android:title="@string/view_by">
+
+        <menu>
+            <item
+                android:id="@id/nav_surah"
+                android:title="@string/by_surah"/>
+
+            <item
+                android:id="@id/nav_parah"
+                android:title="@string/by_parah"/>
+        </menu>
+    </item>
+
+    <item android:title="@string/urdu_translation">
+
+        <menu>
+            <item
+                android:id="@id/nav_fmj"
+                android:title="@string/fatah_muhammad_jalandhri"/>
+
+            <item
+                android:id="@id/nav_mh"
+                android:title="@string/mehmood_ul_hassan"/>
+        </menu>
+    </item>
+
+    <item android:title="@string/english_translation">
+
+        <menu>
+            <item
+                android:id="@id/nav_dmk"
+                android:title="@string/dr_mohsin_khan"/>
+
+            <item
+                android:id="@id/nav_mtu"
+                android:title="@string/mufti_taqi_usmani"/>
+        </menu>
+    </item>
+</menu>
